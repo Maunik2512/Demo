@@ -4,6 +4,8 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
 
+/*test*/
+
 /* We're doing kernel work */
 /* Specifically, a module */
 int init_module(void)
